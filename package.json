@@ -1,0 +1,17 @@
+{
+  "name": "ASCIIChart",
+  "version": "1.0.0",
+  "description": "",
+  "main": "asciiChart.js",
+  "scripts": {
+    "compilar": "tsc asciiChart.ts & node asciiChart.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^14.0.27",
+    "asciichart": "^1.5.24"
+  }
+}
